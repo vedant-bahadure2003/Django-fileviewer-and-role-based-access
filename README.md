@@ -1,4 +1,4 @@
-# 🗂️ File Viewer System with Role-Based Access & Google Drive Integration
+# 🗂️ File Viewer System with Role-Based Access 
 
 A secure, full-stack file viewer system built entirely in **Next.js**.  
 It allows users to view `.txt` files locally or fetch them from Google Drive — with **role-based access control** and a clean, responsive UI.
